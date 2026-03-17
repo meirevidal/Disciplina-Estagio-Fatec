@@ -10,5 +10,5 @@
 
 ### Para saber mais sobre quais relatórios elaborar e documentação comprobatória, consulte o arquivo pdf "Documentos por Modalidade"  
 
-## Resumo Modalidades:  
+## Identifique abaixo a sua situação atual para conferir a lista de documentos:   
 <img width="1024" height="1536" alt="Resumo-Modalidades" src="https://github.com/user-attachments/assets/332c2b64-f937-44db-b529-5b486d3ec8b2" />
