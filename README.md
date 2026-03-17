@@ -8,7 +8,7 @@
 
 ### O cumprimento do estágio é de no mínimo de 240 horas e a contagem como disciplina ocorre a partir do 3º ciclo.  
 
-### A disciplina de Estágio é não presencial portanto para informações entre em contato pelos canais deixados abaixo.  
+### O acompanhamento da disciplina de Estágio ocorre de forma não presencial. Para esclarecer dúvidas ou obter orientações, entre em contato pelos canais de atendimento deixados no post.   
 
 ## Identifique abaixo a sua situação atual (modalidade) para conferir a lista de documentos.  
 E para saber mais consulte o arquivo pdf "Documentos por Modalidade"  
