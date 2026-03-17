@@ -14,6 +14,6 @@
 
 ### Como proceder:
 1. Identifique sua situação para conferir os documentos necessários.  
-2. Para detalhes completos, consulte o guia "Documentos por Modalidade".  
+2. Para mais detalhes, consulte o guia "Documentos por Modalidade".  
 3. Baixe os modelos de arquivos na pasta "documentos".  
 <img width="1024" height="1536" alt="Resumo-Modalidades" src="https://github.com/user-attachments/assets/332c2b64-f937-44db-b529-5b486d3ec8b2" />
