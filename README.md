@@ -12,7 +12,7 @@
  
 ## Abaixo o resumo das orientações.  
 
-## Como proceder:
+### Como proceder:
 1. Identifique sua situação para conferir os documentos necessários.  
 2. Para detalhes completos, consulte o guia "Documentos por Modalidade".  
 3. Baixe os modelos de arquivos na pasta "documentos".  
