@@ -10,6 +10,8 @@
 
 #### O acompanhamento da disciplina de Estágio ocorre de forma não presencial. Para esclarecer dúvidas ou obter orientações, entre em contato pelos canais de atendimento deixados no post.   
 
-## Identifique abaixo a sua situação atual (modalidade) para conferir a lista de documentos.  
-## E para saber mais consulte o arquivo pdf "Documentos por Modalidade"  e para fazer dowload do arquivo acesse a pasta "documentos"  
+## Como proceder:
+1. Identifique sua situação abaixo para conferir os documentos necessários.  
+2. Para detalhes completos, consulte o guia "Documentos por Modalidade".  
+3. Baixe os modelos de arquivos na pasta "documentos".  
 <img width="1024" height="1536" alt="Resumo-Modalidades" src="https://github.com/user-attachments/assets/332c2b64-f937-44db-b529-5b486d3ec8b2" />
