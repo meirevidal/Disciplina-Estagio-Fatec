@@ -1,7 +1,12 @@
-# Disciplina-Estagio-Fatec
-Orientações para entrega de relatório de estágio/equivalencia.  
+# Disciplina-Estagio-Fatec  
 
-Entrega de documentação: 31/05/2026 até às 23h59 em tarefas no Teams em PDF unico assinado digitalmente ou manuscrito acompanhado de carimbo da empresa.  
+## Orientações para entrega de relatório de estágio/equivalência.  
+
+Entrega de documentação: 31/05/2026 até às 23h59 em tarefas no Teams em PDF unico salvo com o nome completo do aluno.  
+
+Os relatórios poderão ser assinados digitalmente ou manuscrito acompanhado de carimbo da empresa e rubrica em todas as folhas.  
+
+O cumprimento do estágio é de no mínimo de 240 horas e a contagem como disciplina ocorre a partir do 3º ciclo.  
 
 Para saber mais sobre quais relatórios elaborar e documentação comprobatória, consulte o arquivo pdf "Documentos por Modalidade"  
 
